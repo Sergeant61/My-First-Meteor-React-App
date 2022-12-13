@@ -9,7 +9,7 @@ const Home = () => {
 
   return (
     <div>
-      <h1>Home/ {count}</h1>
+      <h1>Home Page {count}</h1>
     </div>
   );
 };
